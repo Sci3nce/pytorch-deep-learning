@@ -1,3 +1,5 @@
+Forked from Daniel Bourke's course: [Source](https://github.com/mrdbourke/pytorch-deep-learning), [Course](https://www.learnpytorch.io/)
+
 # Learn PyTorch for Deep Learning
 
 Welcome to the [Zero to Mastery Learn PyTorch for Deep Learning course](https://dbourke.link/ZTMPyTorch), the second best place to learn PyTorch on the internet (the first being the [PyTorch documentation](https://pytorch.org/docs/stable/index.html)).
